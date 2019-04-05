@@ -1,6 +1,7 @@
 body {
     background-color: black;
     color: lightgreen;
+    background-image: url("/Web-Development/Images/background.jpg");
 }
 
 h1 {
